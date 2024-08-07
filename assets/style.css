@@ -1,0 +1,22 @@
+* {
+padding: 0px;
+margin: 64px 199px 240px 199px;
+box-sizing: border-box;
+}
+
+#main {
+  width: 626px;
+  height: 488px;
+  padding: 0px 72px 64px;
+  
+  margin: auto;
+  border: 1px solid red;
+}
+
+img {
+  width: 350px;
+  height: 238px;
+  margin: auto;
+  
+  display: block;
+}
