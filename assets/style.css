@@ -1,6 +1,8 @@
 body {
   text-align: center;
   margin-top: 64px;
+  margin-bottom: 0px;
+  
 }
 
 #main {
@@ -21,7 +23,7 @@ img {
 #destino {
   color: #EE24FF;
 }
-#pacotes {
+#pacotes, #preços {
   color: #3F3D56;
 }
 #preços {
@@ -49,8 +51,20 @@ p {
   color: #828282;
   
 }
-#destinosrodape {
+#destinos1 {
   color: #3F3D56;
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
+  width: 57px;
+  height: 15.17px;
+  
 }
+
+
+#Wave {
+  width: 1911px;
+  height: 217px;
+  border-radius: auto;
+} 
+
+
